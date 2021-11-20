@@ -4,19 +4,9 @@ public class Mi_Clase_1
    System.out.println(¨Hola usuario bienvenido!");
      public static void main (String args[])
      {
-       String dia = "Lunes";
+
+        String dia = "Lunes";
         System.out.println("Hoy es " + dia); //Se componen mensajes usando el + (concatenar)
-
-       
-        System.out.println("A continuación se muestra una cuenta regresiva");
-
-        for (int i = 10; i >= 1;  i--)
-        {
-            System.out.println(i);//Se muestra cada valor de i (de 10 al 1)
-        }
-
-     
-       System.out.println("nueva funcionalidad testiada");
         
      }
 }
