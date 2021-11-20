@@ -13,6 +13,6 @@ public class Mi_Clase_1
         {
             System.out.println(i);//Se muestra cada valor de i (de 10 al 1)
         }
-        
+        System.out.println("Adios");
      }
 }
